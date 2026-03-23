@@ -1,4 +1,3 @@
-# File: software/assembler/isa_def.py
 """
 ISA Definitions for RISC-V 32-bit (RV32I)
 Contains register ABI mappings and instruction opcodes.

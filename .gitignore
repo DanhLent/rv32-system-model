@@ -1,3 +1,8 @@
 __pycache__/
 assembler_test.py
 software/assembler/assembler_test.py
+software/iss/iss_regs.txt
+
+.DS_Store
+Thumbs.db
+.vscode/
